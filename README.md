@@ -1,4 +1,5 @@
-# tarea-1- En primer lugar se imprimio el nombre de archivo de la carpeta Saavedra, posteriormente se identifico la variable a codificar n1 y se ejeuto el archi , después se crreo la carpeta netsiza
+# tarea-1-
+En primer lugar se imprimio el nombre de archivo de la carpeta Saavedra, posteriormente se identifico la variable a codificar n1 y se ejeuto el archi , después se crreo la carpeta netsiza
 Se imprimio los comandos catel contenido con wc-l, con head se mostró las filas
 para eliminar los espacios se uso tr -d “ “
 colocar wc -w cual muestra lineas palabras o caracteres 
