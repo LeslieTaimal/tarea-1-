@@ -1,0 +1,300 @@
+Filename: Saavedra2013/n1.txt
+numero de filas:
+97
+numero de columnas:
+80
+Filename: Saavedra2013/n10.txt
+numero de filas:
+14
+numero de columnas:
+20
+Filename: Saavedra2013/n11.txt
+numero de filas:
+270
+numero de columnas:
+91
+Filename: Saavedra2013/n12.txt
+numero de filas:
+7
+numero de columnas:
+72
+Filename: Saavedra2013/n13.txt
+numero de filas:
+61
+numero de columnas:
+17
+Filename: Saavedra2013/n14.txt
+numero de filas:
+35
+numero de columnas:
+15
+Filename: Saavedra2013/n15.txt
+numero de filas:
+38
+numero de columnas:
+11
+Filename: Saavedra2013/n16.txt
+numero de filas:
+118
+numero de columnas:
+24
+Filename: Saavedra2013/n17.txt
+numero de filas:
+76
+numero de columnas:
+31
+Filename: Saavedra2013/n18.txt
+numero de filas:
+13
+numero de columnas:
+14
+Filename: Saavedra2013/n19.txt
+numero de filas:
+10
+numero de columnas:
+16
+Filename: Saavedra2013/n2.txt
+numero de filas:
+62
+numero de columnas:
+41
+Filename: Saavedra2013/n20.txt
+numero de filas:
+18
+numero de columnas:
+7
+Filename: Saavedra2013/n21.txt
+numero de filas:
+19
+numero de columnas:
+45
+Filename: Saavedra2013/n22.txt
+numero de filas:
+19
+numero de columnas:
+36
+Filename: Saavedra2013/n23.txt
+numero de filas:
+179
+numero de columnas:
+26
+Filename: Saavedra2013/n24.txt
+numero de filas:
+80
+numero de columnas:
+28
+Filename: Saavedra2013/n25.txt
+numero de filas:
+17
+numero de columnas:
+16
+Filename: Saavedra2013/n26.txt
+numero de filas:
+82
+numero de columnas:
+40
+Filename: Saavedra2013/n27.txt
+numero de filas:
+27
+numero de columnas:
+5
+Filename: Saavedra2013/n28.txt
+numero de filas:
+90
+numero de columnas:
+19
+Filename: Saavedra2013/n29.txt
+numero de filas:
+61
+numero de columnas:
+25
+Filename: Saavedra2013/n3.txt
+numero de filas:
+25
+numero de columnas:
+36
+Filename: Saavedra2013/n30.txt
+numero de filas:
+8
+numero de columnas:
+19
+Filename: Saavedra2013/n31.txt
+numero de filas:
+28
+numero de columnas:
+25
+Filename: Saavedra2013/n32.txt
+numero de filas:
+45
+numero de columnas:
+21
+Filename: Saavedra2013/n33.txt
+numero de filas:
+70
+numero de columnas:
+20
+Filename: Saavedra2013/n34.txt
+numero de filas:
+79
+numero de columnas:
+25
+Filename: Saavedra2013/n35.txt
+numero de filas:
+14
+numero de columnas:
+8
+Filename: Saavedra2013/n36.txt
+numero de filas:
+40
+numero de columnas:
+169
+Filename: Saavedra2013/n37.txt
+numero de filas:
+44
+numero de columnas:
+13
+Filename: Saavedra2013/n38.txt
+numero de filas:
+51
+numero de columnas:
+99
+Filename: Saavedra2013/n39.txt
+numero de filas:
+33
+numero de columnas:
+25
+Filename: Saavedra2013/n4.txt
+numero de filas:
+101
+numero de columnas:
+11
+Filename: Saavedra2013/n40.txt
+numero de filas:
+28
+numero de columnas:
+18
+Filename: Saavedra2013/n41.txt
+numero de filas:
+12
+numero de columnas:
+10
+Filename: Saavedra2013/n42.txt
+numero de filas:
+42
+numero de columnas:
+8
+Filename: Saavedra2013/n43.txt
+numero de filas:
+55
+numero de columnas:
+29
+Filename: Saavedra2013/n44.txt
+numero de filas:
+56
+numero de columnas:
+9
+Filename: Saavedra2013/n45.txt
+numero de filas:
+36
+numero de columnas:
+61
+Filename: Saavedra2013/n46.txt
+numero de filas:
+58
+numero de columnas:
+17
+Filename: Saavedra2013/n47.txt
+numero de filas:
+139
+numero de columnas:
+41
+Filename: Saavedra2013/n48.txt
+numero de filas:
+118
+numero de columnas:
+49
+Filename: Saavedra2013/n49.txt
+numero de filas:
+47
+numero de columnas:
+23
+Filename: Saavedra2013/n5.txt
+numero de filas:
+21
+numero de columnas:
+7
+Filename: Saavedra2013/n50.txt
+numero de filas:
+45
+numero de columnas:
+46
+Filename: Saavedra2013/n51.txt
+numero de filas:
+8
+numero de columnas:
+15
+Filename: Saavedra2013/n52.txt
+numero de filas:
+33
+numero de columnas:
+7
+Filename: Saavedra2013/n53.txt
+numero de filas:
+34
+numero de columnas:
+13
+Filename: Saavedra2013/n54.txt
+numero de filas:
+126
+numero de columnas:
+25
+Filename: Saavedra2013/n55.txt
+numero de filas:
+14
+numero de columnas:
+50
+Filename: Saavedra2013/n56.txt
+numero de filas:
+110
+numero de columnas:
+207
+Filename: Saavedra2013/n57.txt
+numero de filas:
+14
+numero de columnas:
+11
+Filename: Saavedra2013/n58.txt
+numero de filas:
+678
+numero de columnas:
+90
+Filename: Saavedra2013/n59.txt
+numero de filas:
+663
+numero de columnas:
+130
+Filename: Saavedra2013/n6.txt
+numero de filas:
+9
+numero de columnas:
+31
+Filename: Saavedra2013/n7.txt
+numero de filas:
+16
+numero de columnas:
+25
+Filename: Saavedra2013/n8.txt
+numero de filas:
+19
+numero de columnas:
+33
+Filename: Saavedra2013/n9.txt
+numero de filas:
+12
+numero de columnas:
+22
+Filename: Saavedra2013/netsize_all.txt
+numero de filas:
+297
+numero de columnas:
+2
